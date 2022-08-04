@@ -40,3 +40,6 @@ Given a set of mapped reads and corresponding mappability files, this software p
 |`--chrom_length_file,-ch`|A tab-delimited file containing the chromosome lengths. The first column should contain the chromosome identifiers and the second column should contain the corresponding chromosome lengths.|
 |`--input_bed,-i`|A bed file containing the reads. The chromosomes referenced should correspond to those in the `MAPPABILITY_DIRECTORY` files.|
 |`--prefix,-p`|This determines the names of the files that will be output in the directory in which MaSC.pl is run. The software outputs a tab delimited table (<PREFIX>_MaSC.txt) and a PNG figure (<PREFIX>_MaSC.png) of the naive and MaSC correlation values as a function of shift (d).
+
+### Matlab prototype
+The software was prototyped in Matlab, which was then formalized in Perl. The Matlab prototype is available in the folder [Matlab_prototype](/Matlab_prototype).
