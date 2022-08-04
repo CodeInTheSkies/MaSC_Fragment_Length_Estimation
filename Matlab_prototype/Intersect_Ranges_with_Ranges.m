@@ -1,5 +1,6 @@
 % This function accepts two sets of sorted ranges (or intervals)
 % and outputs total number of overlaps between them (intersections)
+% Code written by: P. Ramachandran
 
 function OvrLaps = Intersect_Ranges_with_Ranges(Rng1Strts, Rng1Ends, Rng2Strts, Rng2Ends)
 

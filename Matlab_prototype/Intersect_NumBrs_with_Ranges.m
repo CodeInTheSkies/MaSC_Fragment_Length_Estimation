@@ -1,5 +1,6 @@
 % This function accepts a set of sorted numbers and a set of ranges (or intervals)
 % and outputs only the numbers that fall within the ranges (intervals)
+% Code written by: P. Ramachandran
 
 function OtptNos = Intersect_NumBrs_with_Ranges(InptNos, RngStrts, RngEnds)
 

@@ -1,5 +1,6 @@
 % -------------------------------------------------------------------------------
 % This is the MATLAB prototype written from conception of the idea. 
+% Code written by: P. Ramachandran
 % This code is a bit raw, which was then used to refine and 
 % develop, test, and finalize the Perl implementation
 % Therefore, the inline comments you will see are a bit casual and unrefined.
