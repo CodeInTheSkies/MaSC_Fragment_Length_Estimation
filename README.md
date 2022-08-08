@@ -6,7 +6,7 @@ A Perl-based reference implementation of Mappability-Sensitive Cross-Correlation
 This software is available free for non-commerical use.
 
 ### Citation
-This repo contains software accompanying the paper ["MaSC: Mappability-Sensitive Cross-Correlation to Estimate Fragment Length for Short Read Sequencing Data"](https://academic.oup.com/bioinformatics/article/29/4/444/200320), _Bioinformatics,_ 2012.
+This repo contains software accompanying the publication ["MaSC: Mappability-Sensitive Cross-Correlation to Estimate Fragment Length for Short Read Sequencing Data"](https://academic.oup.com/bioinformatics/article/29/4/444/200320), _Bioinformatics,_ 2012.
 
 Please cite the above publication if you use the described algorithm or this software.
 
